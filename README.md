@@ -5,7 +5,7 @@ I'm Maurilinux91 a Hobbiest Software Developer, Information Technologies Enginee
 
 Over the years, I've created various codes, school files, academic projects, and/or projects to solve a problem or improve a process. So, I've decided to upload some material for future and public use.
 
-Sit back, hold on, and enjoy :3 ☺
+Sit back, hold on, and enjoy :3 :)
 
 ## ¡Hola a todos! 👋
 
@@ -13,7 +13,7 @@ Soy Maurilinux91, desarrollador de software aficionado, ingeniero en tecnología
 
 A lo largo de los años, he creado diversos códigos, archivos escolares, proyectos académicos y/o proyectos para resolver problemas o mejorar procesos. Por eso, he decidido subir material para uso público y futuro.
 
-Relájate, espera y disfruta :3 :)
+Siéntese, agárrese y disfrute :3 :)
 
 <!--
 **Maurilinux91/maurilinux91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
