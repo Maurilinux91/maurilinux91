@@ -1,7 +1,5 @@
 ## Hello Everybody! 👋
 
-<!--
-**Maurilinux91/maurilinux91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm Maurilinux91 a Hobbiest Software Developer, Information Technologies Engineer, formerly student of Computer Systems Engineer. 
 
 
@@ -16,6 +14,10 @@ Soy Maurilinux91, desarrollador de software aficionado, ingeniero en tecnología
 A lo largo de los años, he creado diversos códigos, archivos escolares, proyectos académicos y/o proyectos para resolver problemas o mejorar procesos. Por eso, he decidido subir material para uso público y futuro.
 
 Relájate, espera y disfruta :3 :)
+
+<!--
+**Maurilinux91/maurilinux91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 Here are some ideas to get you started:
