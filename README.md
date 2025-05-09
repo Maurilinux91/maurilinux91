@@ -9,7 +9,7 @@ Sit back, hold on, and enjoy :3 :)
 
 ## ¡Hola a todos! 👋
 
-Soy Maurilinux91, desarrollador de software aficionado, ingeniero en tecnologías de la información y exestudiante de ingeniería en sistemas informáticos.
+Soy Maurilinux91, desarrollador de software, Ingeniero en tecnologías de la Información y exestudiante de Ingeniería de Sistemas Computacionales.
 
 A lo largo de los años, he creado diversos códigos, archivos escolares, proyectos académicos y/o proyectos para resolver problemas o mejorar procesos. Por eso, he decidido subir material para uso público y futuro.
 
